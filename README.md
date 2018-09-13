@@ -18,6 +18,8 @@ With Doquia a doctor can assist you within minutes! It helps you to find the on-
 ## Getting started
 ```
 $ npm install
+
+/ios
 $ pod install
 ```
 
